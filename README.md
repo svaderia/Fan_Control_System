@@ -52,9 +52,9 @@ buttons.   It   can   operate   in   the   range   of   0‐5.
   
 # Flowcharts
 * Flow chart 1  
-![Flowchart - 1](https://github.com/svaderia/Fan_Control_System/tree/master/images/image2.jpg)
+![Flowchart - 1](https://user-images.githubusercontent.com/26005890/29689659-99491d4c-8941-11e7-9ac6-f8f87a615ad3.jpg)
 * Flow chart 2
-![Flowchart - 2](https://github.com/svaderia/Fan_Control_System/tree/master/images/image3.jpg)
+![Flowchart - 2](https://user-images.githubusercontent.com/26005890/29689665-9d89417a-8941-11e7-86e2-efd37c4a2821.jpg)
 
 # ASSUMPTIONS : 
  
@@ -68,8 +68,8 @@ buttons.   It   can   operate   in   the   range   of   0‐5.
 
 # Running the Design model
 
-* The `FCS.dsn` file has to be opened in Proteus 7 professional (ISIS 7)
-* Compile the assembly code in DOSBOX using `ml main.asm`.
-* The compilation will result in a new machine level code with the name `main.com`
-* Double click on the 8086 processor in the design, browse from the code text box to the `main.com` and select it.
+* The `FanControl.dsn` file has to be opened in Proteus 7 professional (ISIS 7)
+* Compile the assembly code in DOSBOX using `ml MAINS.asm`.
+* The compilation will result in a new machine level code with the name `MAINS.com`
+* Double click on the 8086 processor in the design, browse from the code text box to the `MAINS.com` and select it.
 * Run the simulation using the play button provided in ISIS 7.
