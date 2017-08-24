@@ -10,6 +10,7 @@ User Interface:
   5. User can also set the mode of fan as ‘Auto’ mode besides a ‘Regular mode’ setting. In Auto mode, user should be able to enter the value of time in terms of hours after which the Fan has to be switched off automatically. (For example, if value entered is 2, then the Fan should switch off after 2 hours from the time this setting is applied
 
 # List of Hardware Used
+|Items|Number|
 |---|---|
 | 8086 Micro-Processor | 1 |
 | 74LS373 Octal Latches | 3 |
