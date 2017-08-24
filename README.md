@@ -51,9 +51,9 @@ buttons.   It   can   operate   in   the   range   of   0‐5.
     4. FAN   can   also   be   controlled   by   using   the   AUTO   mode. 
   
 # Flowcharts
-* Flow chart 1  
+## Flow chart 1  
 ![Flowchart - 1](https://user-images.githubusercontent.com/26005890/29689659-99491d4c-8941-11e7-9ac6-f8f87a615ad3.jpg)
-* Flow chart 2
+## Flow chart 2
 ![Flowchart - 2](https://user-images.githubusercontent.com/26005890/29689665-9d89417a-8941-11e7-86e2-efd37c4a2821.jpg)
 
 # ASSUMPTIONS : 
