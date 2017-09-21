@@ -52,9 +52,9 @@ buttons.   It   can   operate   in   the   range   of   0‐5.
   
 # Flowcharts
 ## Flow chart 1  
-![Flowchart - 1](https://user-images.githubusercontent.com/26005890/29689659-99491d4c-8941-11e7-9ac6-f8f87a615ad3.jpg)
+![Flowchart1](https://user-images.githubusercontent.com/26005890/30715883-88c4c85e-9f35-11e7-96e3-638ca4649fa4.jpg)
 ## Flow chart 2
-![Flowchart - 2](https://user-images.githubusercontent.com/26005890/29689665-9d89417a-8941-11e7-86e2-efd37c4a2821.jpg)
+![Flowchart2](https://user-images.githubusercontent.com/26005890/30715885-89e7faf8-9f35-11e7-8861-06a874d24c7a.jpg)
 
 # ASSUMPTIONS : 
  
